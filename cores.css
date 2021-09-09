@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.Heart-handshake-Icon-1-hex { color: #D22809; }
+.Heart-handshake-Icon-2-hex { color: #CE3D48; }
+.Heart-handshake-Icon-3-hex { color: #DC878F; }
+.Heart-handshake-Icon-4-hex { color: #ffffff; }
+.Heart-handshake-Icon-5-hex { color: #D22809; }
+
+/* Color Theme Swatches in RGBA */
+.Heart-handshake-Icon-1-rgba { color: rgba(210, 40, 9, 1); }
+.Heart-handshake-Icon-2-rgba { color: rgba(206, 61, 72, 1); }
+.Heart-handshake-Icon-3-rgba { color: rgba(220, 135, 143, 1); }
+.Heart-handshake-Icon-4-rgba { color: rgb(255, 255, 255); }
+.Heart-handshake-Icon-5-rgba { color: rgba(210, 40, 9, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Heart-handshake-Icon-1-hsla { color: hsla(9, 91, 42, 1); }
+.Heart-handshake-Icon-2-hsla { color: hsla(355, 59, 52, 1); }
+.Heart-handshake-Icon-3-hsla { color: hsla(354, 54, 69, 1); }
+.Heart-handshake-Icon-4-hsla { color: hsla(335, 40, 85, 1); }
+.Heart-handshake-Icon-5-hsla { color: hsla(9, 91, 42, 1); }
